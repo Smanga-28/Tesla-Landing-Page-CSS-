@@ -60,7 +60,7 @@ margin: calc(164px - 56px);
 
 }
 .action-section{
-margin: 400px;
+margin: 230px;
 
 }
 
